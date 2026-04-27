@@ -1,4 +1,4 @@
-package com.example.personaleventplanner.data;
+package com.example.personaleventplanner.data.local;
 
 import androidx.lifecycle.LiveData;
 

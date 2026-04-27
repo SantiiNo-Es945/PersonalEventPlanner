@@ -18,7 +18,7 @@ import androidx.lifecycle.ViewModelProvider;
 import androidx.navigation.Navigation;
 
 import com.example.personaleventplanner.R;
-import com.example.personaleventplanner.data.EventRepository;
+import com.example.personaleventplanner.data.local.EventRepository;
 import com.example.personaleventplanner.data.local.Event;
 import com.example.personaleventplanner.viewmodel.EventViewModel;
 

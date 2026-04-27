@@ -6,7 +6,7 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 
-import com.example.personaleventplanner.data.EventRepository;
+import com.example.personaleventplanner.data.local.EventRepository;
 import com.example.personaleventplanner.data.local.Event;
 import com.example.personaleventplanner.data.local.EventDatabase;
 
